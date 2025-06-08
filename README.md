@@ -1,0 +1,1 @@
+This is a machine learning model using scikit-learn and pandas to classify tumors as malignant or benign, achieving 96% accuracy using a Random Forest classifier on labeled data from the UCI Breast Cancer Wisconsin (Diagnostic) dataset
